@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,mongodb,postgres,typeorm,prisma" />
   <img src="https://skillicons.dev/icons?i=aws,rabbitmq,redis" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman" />
 </p>
