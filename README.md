@@ -19,6 +19,8 @@
 
 I'm a **Senior Full-Stack Software Engineer** with **6+ years of experience** building scalable, maintainable, and high-performance software solutions. I'm passionate about **Clean Architecture** and **SOLID Principles**, and I've helped teams achieve significant improvements in user engagement and system performance.
 
+> 💼 **Professional Note**: Much of my recent work has been in private enterprise repositories, so my public GitHub activity doesn't fully reflect my daily coding contributions and professional projects.
+
 ### 🚀 Current Learning Focus
 - 🌱 I'm currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)** to enhance my ability to architect large-scale, distributed systems
 
