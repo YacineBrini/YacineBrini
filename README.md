@@ -67,11 +67,16 @@ I'm a **Senior Full-Stack Software Engineer** with **7+ years of experience** bu
   <img src="https://img.shields.io/badge/GitHub%20Actions-Advanced-blue?style=flat-square&logo=github-actions" alt="GitHub Actions" />
 </div>
 
-### 🎯 Key Highlights
-- **Tech Lead experience** mentoring junior engineers and driving architectural decisions
+### 🎯 Professional Highlights
+- **7+ Years** of full-stack development experience
+- **Tech Lead** experience mentoring junior engineers and driving architectural decisions
+- **Multi-language expertise**: JavaScript/TypeScript, Golang, Java
+- **Enterprise experience** with scalable systems and clean architecture
+- **DevOps proficiency** with AWS, Docker, Terraform, and CI/CD pipelines
+- **Database expertise** across SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Neo4j)
+- **Testing advocate** with comprehensive testing strategies (Jest, Puppeteer, SuperTest)
+- **Agile practitioner** experienced with Scrum, Kanban, and Design Sprint methodologies
 - **Multilingual**: English, French, German, Arabic
-- **Focus on scalability** and maintainable code architecture
-- **Passionate about** clean code and software craftsmanship
 
 ### 🎨 Beyond Code
 When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
@@ -111,17 +116,19 @@ When I'm not coding, I enjoy exploring new technologies, contributing to open-so
 
 <hr>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YacineBrini&show_icons=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YacineBrini&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=YacineBrini&show_icons=true&count_private=true" />
-</picture>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YacineBrini&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YacineBrini&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineBrini&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+</div>
 
 
 ## 🐍 My Contributions
