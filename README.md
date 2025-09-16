@@ -1,15 +1,61 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/YacineBrini/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=YacineBrini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<img src="https://github.com/YacineBrini/YacineBrini/blob/ef8eb333a425079535c56dec2a9a0a614b313c56/1693476739453.jpeg" alt="Software Engineer">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
 <h1 align="center" width="500" height="200">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Yacine+Brini!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Yacine+Brini;Senior+Full-Stack+Engineer;Clean+Architecture+Advocate;Scalable+Systems+Builder;" />
 </h1>
 
-### A Senior full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+<div align="center">
+  <h3>🚀 Proactive engineer building scalable, maintainable, and high-performance software solutions</h3>
+  <p><strong>📍 France</strong> • <strong>💼 6+ Years Experience</strong> • <strong>🎯 Clean Architecture & SOLID Principles</strong></p>
+</div>
+
+## 👨‍💻 About Me
+
+I'm a **Senior Full-Stack Software Engineer** with **6+ years of experience** building scalable, maintainable, and high-performance software solutions. I'm passionate about **Clean Architecture** and **SOLID Principles**, and I've helped teams achieve significant improvements in user engagement and system performance.
+
+### 🚀 Current Learning Focus
+- 🌱 I'm currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)** to enhance my ability to architect large-scale, distributed systems
+
+### 🏗️ Core Expertise Areas
+
+**Backend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-Expert-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-Expert-brightgreen?style=flat-square&logo=nestjs" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-brightgreen?style=flat-square&logo=typescript" alt="TypeScript" />
+</div>
+
+**Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-Advanced-blue?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-blue?style=flat-square&logo=next.js" alt="Next.js" />
+</div>
+
+**Architecture & Principles**
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Expert-brightgreen?style=flat-square" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/SOLID%20Principles-Expert-brightgreen?style=flat-square" alt="SOLID Principles" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-Advanced-blue?style=flat-square" alt="Design Patterns" />
+</div>
+
+### 🎯 Key Highlights
+- **Tech Lead experience** mentoring junior engineers and driving architectural decisions
+- **Multilingual**: English, French, German, Arabic
+- **Focus on scalability** and maintainable code architecture
+- **Passionate about** clean code and software craftsmanship
+
+### 🎨 Beyond Code
+When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
+
+---
+
+💬 **Ask me about** Node.js, NestJS, React, Clean Architecture, System Design, or anything [here](https://github.com/YacineBrini/YacineBrini/issues)
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Node.js, Nestjs, React...or anything [here](https://github.com/YacineBrini/YacineBrini/issues)**
