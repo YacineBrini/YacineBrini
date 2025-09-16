@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center" width="500" height="200">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Yacine+Brini;Senior+Full-Stack+Engineer;Clean+Architecture+Advocate;Scalable+Systems+Builder;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&center=true&vCenter=true&width=800&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Yacine+Brini;Senior+Full-Stack+Engineer;Clean+Architecture+Advocate;Scalable+Systems+Builder;" />
 </h1>
 
 <div align="center">
