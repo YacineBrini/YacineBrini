@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=20&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <h1 align="center" width="500" height="200">
