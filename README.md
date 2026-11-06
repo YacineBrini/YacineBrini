@@ -12,12 +12,12 @@
 
 <div align="center">
   <h3>🚀 Proactive engineer building scalable, maintainable, and high-performance software solutions</h3>
-  <p><strong>📍 France</strong> • <strong>💼 7+ Years Experience</strong> • <strong>🎯 Clean Architecture & SOLID Principles</strong></p>
+  <p><strong>📍 France</strong> • <strong>💼 8+ Years Experience</strong> • <strong>🎯 Clean Architecture & SOLID Principles</strong></p>
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack Software Engineer** with **7+ years of experience** building scalable, maintainable, and high-performance software solutions. I'm passionate about **Clean Architecture** and **SOLID Principles**, and I've helped teams achieve significant improvements in user engagement and system performance.
+I'm a **Senior Full-Stack Software Engineer** with **8+ years of experience** building scalable, maintainable, and high-performance software solutions. I'm passionate about **Clean Architecture** and **SOLID Principles**, and I've helped teams achieve significant improvements in user engagement and system performance.
 
 > 💼 **Professional Note**: Much of my recent work has been in private enterprise repositories, so my public GitHub activity doesn't fully reflect my daily coding contributions and professional projects.
 
